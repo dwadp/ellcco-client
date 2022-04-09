@@ -9,7 +9,7 @@
     "datatables.net-bs4": "^1.10.19",
     "dotenv": "^8.0.0",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "query-string": "^6.7.0",
     "react": "^16.8.6",
